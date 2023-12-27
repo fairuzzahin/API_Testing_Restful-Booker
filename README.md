@@ -67,6 +67,6 @@ npm install -g newman-reporter-htmlextra
       1. > Only Message
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/4457ed2a-1cbe-4b4d-a6be-89f67487cad6.png)
+![Newman Report Summary](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/648f3a8b-5aaf-4248-a131-9e6530c9336f.png)
 
 ![Newman Report Summary](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/05d87621-b6f9-48d8-bd94-2b21c3785d5c.png)
