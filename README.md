@@ -40,12 +40,12 @@ npm install -g newman-reporter-htmlextra
 
 2. ### Get Booking
  > Get the data sets after completing the create booking
-    1. > First Name
-    2. > Last Name
-    3. > Totalprice
-    4. > Depositpaid
-    5. > Checkin
-    6. > Checkout
+     1. > First Name
+     2. > Last Name
+     3. > Totalprice
+     4. > Depositpaid
+     5. > Checkin
+     6. > Checkout
      
 3. ### Create Token
  > Create token and add the token id in environment
@@ -55,16 +55,16 @@ npm install -g newman-reporter-htmlextra
 	
 5. ### Get Update Booking
  > Get the data sets after completing the uodate booking
-   1. > First Name
-   2. > Last Name
-   3. > Totalprice
-   4. > Depositpaid
-   5. > Checkin
-   6. > Checkout
+    1. > First Name
+    2. > Last Name
+    3. > Totalprice
+    4. > Depositpaid
+    5. > Checkin
+    6. > Checkout
 
 6. ### Delete Booking
  > In the test case you need to validate the following field values:
-   1. > Only Message
+    1. > Only Message
 
 ## Newman Report Summary:
 ![Newman Report Summary](https://github.com/fairuzzahin/API_Testing_TestingWorld/assets/87386589/5a0aa378-db5f-4549-ab34-a8808eb7c20e.png)
