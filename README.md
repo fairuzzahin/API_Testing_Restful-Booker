@@ -36,10 +36,10 @@ npm install -g newman-reporter-htmlextra
 
 ## Test case list:
 1. ### Create Booking
-  > Create Data Sets Using the Dynamic Random Variables.
+      > Create Data Sets Using the Dynamic Random Variables.
 
 2. ### Get Booking
-  > Get the data sets after completing the create booking
+      > Get the data sets after completing the create booking
       1. > First Name
       2. > Last Name
       3. > Totalprice
