@@ -36,10 +36,10 @@ npm install -g newman-reporter-htmlextra
 
 ## Test case list:
 1. ### Create Booking
- > Create Data Sets Using the Dynamic Random Variables.
+  > Create Data Sets Using the Dynamic Random Variables.
 
 2. ### Get Booking
- > Get the data sets after completing the create booking
+  > Get the data sets after completing the create booking
      1. > First Name
      2. > Last Name
      3. > Totalprice
@@ -48,13 +48,13 @@ npm install -g newman-reporter-htmlextra
      6. > Checkout
      
 3. ### Create Token
- > Create token and add the token id in environment
+  > Create token and add the token id in environment
  
 4. ### Update Booking
- > Update Data Sets Using the Dynamic Random Variables.
+  > Update Data Sets Using the Dynamic Random Variables.
 	
 5. ### Get Update Booking
- > Get the data sets after completing the uodate booking
+  > Get the data sets after completing the uodate booking
     1. > First Name
     2. > Last Name
     3. > Totalprice
@@ -63,7 +63,7 @@ npm install -g newman-reporter-htmlextra
     6. > Checkout
 
 6. ### Delete Booking
- > In the test case you need to validate the following field values:
+  > In the test case you need to validate the following field values:
     1. > Only Message
 
 ## Newman Report Summary:
